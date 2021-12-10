@@ -65,7 +65,7 @@ window.snake.more_menu = function(e) {
 
   // lightning
   img = new Image;
-  img.src = 'https://i.postimg.cc/9Q9KJsnk/bolt.png';
+  img.src = 'file:///home/chronos/u-dc8139844dac5d2c98a30c70124388d6bb01f159/MyFiles/Downloads/Screenshot%202021-12-10%202.25.36%20AM.png
   img.width = 47;
   img.height = 47;
   img.class = 'DqMRee SsAred';
@@ -97,7 +97,7 @@ window.snake.more_menu = function(e) {
 
   // bullet
   img = new Image;
-  img.src = 'https://i.postimg.cc/xCqBt7dD/bullet.png';
+  img.src = 'file:///home/chronos/u-dc8139844dac5d2c98a30c70124388d6bb01f159/MyFiles/Downloads/Screenshot%202021-12-10%202.30.19%20AM.png;
   img.width = 47;
   img.height = 47;
   img.class = 'DqMRee SsAred';
